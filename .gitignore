@@ -38,3 +38,8 @@ jspm_packages
 
 cache/*.png
 .DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
